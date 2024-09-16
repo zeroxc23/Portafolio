@@ -10,7 +10,7 @@ user=input()
 Number= random.randint(minNum, maxNum)
 print("Bueno, " + user + " Estoy pensando un numero entre " + str(minNum) + " y " + str(maxNum) )
 
-while numfound<:
+while numfound<6:
     print("Intenta adivinar el numero: ")
     intento=int(input())
 
